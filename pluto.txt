@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 is a planet!
+=======
+isn't a planet
+>>>>>>> 1078f8a6c6af34d41efef3193586035bcc8409e6
